@@ -25,12 +25,15 @@ The summary includes the effects of some functions available in the user control
 
 
 Matrix:
+
 ![image](https://user-images.githubusercontent.com/106106611/178149168-e208e4a1-3cd2-45e2-9535-2c54f1926b26.png)
 
 Communication shceme:
+
 ![image](https://user-images.githubusercontent.com/106106611/178149190-fcb5b9f2-29f8-45df-bee2-f22633f00ab9.png)
 
 Workplace:
+
 ![image](https://user-images.githubusercontent.com/106106611/178149214-9c95c912-b095-453d-934a-16bf9fd285db.png)
 
 1) Industrial controller Phoenix Contact ILC 151 ETH 
@@ -43,17 +46,20 @@ Workplace:
 
 
 Final app:
+
 ![image](https://user-images.githubusercontent.com/106106611/178149328-7b630d88-3196-4968-b84b-6ccdb8a677e3.png)
 ![image](https://user-images.githubusercontent.com/106106611/178149335-ddeaf408-52b6-4b45-8eaa-e7acfc17b55c.png)
 ![image](https://user-images.githubusercontent.com/106106611/178149401-12ec7d0a-33a2-46d4-aff1-1b847582a795.png)
 
 
 Results:
+
 ![image](https://user-images.githubusercontent.com/106106611/178149369-94ad9292-dd7f-498d-8390-975e868fd12b.png)
 ![image](https://user-images.githubusercontent.com/106106611/178149377-c198580f-cda1-41ff-a5d8-a6abcb2f9084.png)
 ![image](https://user-images.githubusercontent.com/106106611/178149379-3cf55dc9-e7c9-42e2-b837-6b9244cb38b4.png)
 
+
 Configuration:
-<to be completed>
+to be completed
 
 
